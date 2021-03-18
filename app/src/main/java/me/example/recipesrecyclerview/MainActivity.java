@@ -10,20 +10,6 @@ import org.apache.commons.io.IOUtils;
 import java.io.InputStream;
 import java.util.LinkedList;
 
-
-/*
-* Answers to questions
-*
-* Q1 - Which of the following statements about a RecyclerView is false?
-* A1 - You don't need a layout manager with a RecyclerView to handle the hierarchy and layout of View elements.
-*
-* Q2 - Which of the following is the primary component you need to provide to an adapter a View item and its position within a RecyclerView?
-* A2 - RecyclerView.ViewHolder
-*
-* Q3 - Which interface do you need to implement in order to listen and respond to user clicks in a RecyclerView?
-* A3 - View.onClickListener
- * */
-
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     private final LinkedList<String> mRecipeNames = new LinkedList<>();
