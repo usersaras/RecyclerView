@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 18 09:11:46 NPT 2021
+0.baseType=DIRECTORY
+0.base=/Users/sarassthapitshrestha/Desktop/al-a/Android-Developer-Fundamentals-Version-2-master/4.5_RecyclerView/RecipesRecyclerView/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
